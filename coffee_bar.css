@@ -1,0 +1,144 @@
+* {
+  background-color: blanchedalmond;
+  box-sizing: border-box;
+}
+/* Header/Top Nav */
+.header {
+  padding: 5px;
+  color: white;
+  background-color: rgb(124, 76, 76);
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+}
+
+.header h1 {
+  background-color: rgb(124, 76, 76);
+  font-family: "Brush Script MT", cursive;
+}
+
+#coffee_logo {
+  float: left;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.topNavBar {
+  overflow: hidden;
+  background-color: white;
+  padding: 10px;
+  top: 0;
+}
+
+.topNavBar a {
+  float: left;
+  display: block;
+  color: rgb(124, 76, 76);
+  text-decoration: none;
+  background-color: white;
+  text-align: center;
+  padding: 5px 30px;
+}
+
+/* Main Content Body */
+div#content {
+  margin: 0 150px;
+}
+
+/* Bottom Section Colums/Row */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.bottomRow:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#coffee_cup {
+  float: left;
+  width: 90px;
+  height: 90px;
+  padding: 10px;
+}
+
+/* Footer */
+.footer {
+  background-color: rgb(124, 76, 76);
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.footer h4 {
+  color: white;
+  text-align: center;
+  background-color: rgb(124, 76, 76);
+}
+
+.row {
+  display: inline-flex;
+}
+
+/* Left and right column */
+.column_side {
+  width: 25%;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Middle Grid */
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 10px;
+  row-gap: 10px;
+}
+
+#coffeeCup {
+  width: 90%;
+  height: 60%;
+}
+
+.grid-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.float_child1 {
+  flex: 50%;
+}
+
+.float_child2 {
+  flex: 50%;
+}
+
+.float_child3 {
+  flex: 100%;
+  background-color: rgb(124, 76, 76);
+  padding: 10px;
+}
+
+#price {
+  color: white;
+  font-size: 20px;
+}
+
+#button {
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  float: right;
+  padding: 10px;
+}
