@@ -1,5 +1,5 @@
 # Startup_Hakk
 
-# Author: Edrei Merino
+# Author/Creator: Edrei Merino
 
 # Contact: edreimerino@gmail.com
