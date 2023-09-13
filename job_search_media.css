@@ -4,6 +4,19 @@
   box-sizing: border-box;
 }
 
+/* Top Header & Nav */
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.container-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 /* Top Page Header */
 .top_page_header {
   background-color: rgba(53, 4, 144, 0.929);
