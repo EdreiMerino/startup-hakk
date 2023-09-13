@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fetch ipstack API</title>
+  </head>
+  <body>
+    <h1>ipstack API</h1>
+    <ul id="ipstack"></ul>
+    <script>
+      fetch(
+        "http://api.ipstack.com/72.200.65.161?access_key=3bbef8c49ebdab8397b5dec6e4d3ddc6",
+        {
+          method: "get",
+        }
+      )
+        .then(async (response) => await response.json())
+        .then(async (response) => {
+          html = "";
+          console.log(response);
+          for (const property in response) {
+            console.log(`${property}: ${response[property]}`);
+            html += "<li>" + property + ": " + response[property] + "<li>";
+          }
+          document.getElementById("ipstack").innerHTML = html;
+        });
+    </script>
+  </body>
+</html>
