@@ -1,0 +1,15 @@
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.csproj.AssemblyReference.cache
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.AssemblyInfoInputs.cache
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.AssemblyInfo.cs
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.csproj.CoreCompileInputs.cache
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\bin\Debug\net6.0\Task1_emerino.exe
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\bin\Debug\net6.0\Task1_emerino.deps.json
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\bin\Debug\net6.0\Task1_emerino.runtimeconfig.json
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\bin\Debug\net6.0\Task1_emerino.dll
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\bin\Debug\net6.0\Task1_emerino.pdb
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.dll
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\refint\Task1_emerino.dll
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.pdb
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\Task1_emerino.genruntimeconfig.cache
+C:\Users\edrei\Software_Development\Startup_Hakk\C#_Assignments_emerino\Task1_emerino\Task1_emerino\obj\Debug\net6.0\ref\Task1_emerino.dll
