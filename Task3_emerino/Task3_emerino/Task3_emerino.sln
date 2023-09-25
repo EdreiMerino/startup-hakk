@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3_emerino", "Task3_emerino.csproj", "{DA33097B-7CB8-4771-9C89-6E352D3D1193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA33097B-7CB8-4771-9C89-6E352D3D1193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA33097B-7CB8-4771-9C89-6E352D3D1193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA33097B-7CB8-4771-9C89-6E352D3D1193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA33097B-7CB8-4771-9C89-6E352D3D1193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C69337D-ADB7-475B-AC7A-643C4BF25E4B}
+	EndGlobalSection
+EndGlobal
